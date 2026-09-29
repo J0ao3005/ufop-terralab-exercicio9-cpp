@@ -1,0 +1,7 @@
+# .gitignore
+bin/
+*.exe
+*.o
+*.a
+*.so
+*.dll
